@@ -1,16 +1,14 @@
 # Week - 1
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta veya Ödev Sayısı (1)```
 
 # Homework 
-```Ödev```
-HESAP MAKİNESİ
+```HESAP MAKİNESİ```
+
 
 ## Homework Description
 
-```Ödev Açıklaması ```
-FLUTTER İLE HESAP MAKİNESİ UYGULAMASI YAPILDI.
+```FLUTTER İLE HESAP MAKİNESİ UYGULAMASI YAPILDI.```
 
 ## Author
 
-```Ödevi yapan```
-ÖMER MERİÇ
+```ÖMER MERİÇ```
